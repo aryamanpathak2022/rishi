@@ -2,7 +2,7 @@
 This assignment is to get more familiar with getting data from file into array of structures , sorting the data and finally exporting data to new file
 
 # Required files to download
-1. input file (https://learn.iiitb.net/pluginfile.php/31238/assignsubmission_file/submission_files/76229/input_file.txt?forcedownload=1)
+1. [input file](https://learn.iiitb.net/pluginfile.php/31238/assignsubmission_file/submission_files/76229/input_file.txt?forcedownload=1)
 2. structures.c ()
 
 # Explaining the function of structures.c
